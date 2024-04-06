@@ -76,7 +76,6 @@ function signin() {
         </form>
         <div className="mt-2 flex w-5/6 flex-col items-center justify-center gap-4 text-center text-sm font-normal sm:text-base">
           <p>
-            {' '}
             Don't have an account?
             <Link to={'/signup'} className="text-blue-600 hover:text-blue-500">
               {' '}
